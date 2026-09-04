@@ -1,7 +1,7 @@
 # Comprehensive JavaScript Arrow Function Architecture Sandbox
 
 
-An international production-grade sandbox showcasing the 4 key structural patterns of moder **ES6+ Arrow Functions**. This repository implements clean, optimized code across divers business environments, minimizing memory layers while maintaining high maintainability.
+An international production-grade sandbox showcasing the 4 key structural patterns of modern **ES6+ Arrow Functions**. This repository implements clean, optimized code across divers business environments, minimizing memory layers while maintaining high maintainability.
 
 ## Functional Paradigms Demonstrated
 
